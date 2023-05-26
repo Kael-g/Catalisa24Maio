@@ -1,4 +1,4 @@
-#LISTA DE EXERCÍCIOS 002
+# LISTA DE EXERCÍCIOS 002
 
 1 - Faça um programa que mostre a mensagem "Alô mundo" na tela.
 
